@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_Ecombotservice_name": {
+            "value": null
+        },
+        "serverfarms_Ecombotservice_name": {
+            "value": null
+        },
+        "sites_ecombotservice_bot_83ed_name": {
+            "value": null
+        },
+        "storageAccounts_ecombotstorag_name": {
+            "value": null
+        },
+        "botServices_ecombotservice_bot_name": {
+            "value": null
+        },
+        "accounts_Ecombotservice_name": {
+            "value": null
+        },
+        "searchServices_ecombotservice_asdj44foxnw53jy_name": {
+            "value": null
+        }
+    }
+}
