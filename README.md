@@ -14,17 +14,7 @@ Azure Services Used :
 2. Azure Botservices for bot creation
 3. Storage Account for creating static website and host our html code.
 
-****Complete Resource Group Templates has been Provided in FRT Folder in case Additional Proof is required to veify whether the above mentioned services are used or not.
 
-
-Industry*: Lifestyle
-Project Title*: E-commerce Chatbot
-
-Problem Statement/Opportunity*:
-
-In the e-commerce world, chatbots are bringing about a transformation and enabling retailers to foster better shopping experiences. The rise of AI chatbots in the business world is enormous. According to Global Market Insights, the overall market size for chatbots worldwide will be over $1.3 billion by 2024.
-Project Description*:
-
-eCommerce chatbots can help you in the entire sale process, from product discovery to check out and after-sales support. chatbots save your time and money that you can use to grow your business. chatbots work 24/7 so customers can get their query resolved even on holidays. chatbots can speak any language and also don't require human intervention which make it a cost effective choice for business.
-
-Primary Azure Technology*: Azure Bot Service, QnA Maker, Storage Accounts,
+![Screenshot_2022-07-22-14-43-54-87_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/71630260/180407936-82e70d71-e0db-444f-bf9d-e42380887821.jpg)
+![Screenshot_2022-07-22-14-44-09-45_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/71630260/180407967-ba189ebf-4cf3-40a8-811b-11ec7c097f02.jpg)
+![Screenshot_2022-07-22-14-44-48-98_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/71630260/180407988-13534ebd-92ee-42c4-ae49-55de8fc53ae2.jpg)
