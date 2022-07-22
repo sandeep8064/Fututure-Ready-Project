@@ -1,10 +1,6 @@
 # Fututure-Ready-Project
 E-commerce chatbot.
 
-Demo Video - https://youtu.be/dYA37bOOTmo
-
-Project Prototype - https://ecombotstorag.z13.web.core.windows.net/
-
 Project contain a single page Website in which i have integrated my chatbot. Chatbot will immediately appear after clicking on the link.
 You can Type in any Query related ecommerce such as order details, payment options , contact details etc. and chatbot will show the the 
 relevant answers.
